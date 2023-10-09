@@ -1,4 +1,4 @@
-# DMI_Practica9_200561
+# DMI_Practica10_200561
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -29,7 +29,7 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 9: Itemizacion de las películas e incorporación deo widget card |
+| Nombre  |  Practica 10: Itemizacion de las películas e incorporación deo widget card |
 | Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series.Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. 
 
 Para este nuevo avance se realizaron mejoras en la app como un margen entre cada imagen para hacer que se ve vea mas estetico y se agrego una portada de cada película, como también texto con el respectivo titulo de las películas con un prototipo de numero de estrellas y fecha de lanzamiento, también se incorporo una imagen de carga al momento de refrescar la imagen de la película, a esta se le hizo un ajuste para que  concuerde con el tamaño de la aplicacion.  |
